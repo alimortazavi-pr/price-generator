@@ -1,7 +1,7 @@
 {
   "name": "price-generator",
   "version": "0.0.1",
-  "description": "convert all of numbers to persian numbers",
+  "description": "You can generate pretty price very easy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

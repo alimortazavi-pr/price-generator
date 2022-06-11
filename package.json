@@ -1,0 +1,27 @@
+{
+  "name": "price-generator",
+  "version": "0.0.1",
+  "description": "convert all of numbers to persian numbers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimortazavi-pr/price-generator.git"
+  },
+  "keywords": [
+    "price",
+    "generator",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Ali Mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimortazavi-pr/price-generator/issues"
+  },
+  "homepage": "https://github.com/alimortazavi-pr/price-generator#readme"
+}

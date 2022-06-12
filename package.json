@@ -1,6 +1,6 @@
 {
   "name": "price-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "You can generate pretty price very easy",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
